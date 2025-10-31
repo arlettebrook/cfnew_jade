@@ -1,5 +1,5 @@
 name = "jade"
-main = "少年你相信光吗.js"
+main = "少年你相信光吗"
 compatibility_date = "2025-10-28"
 
 # 如果使用 environment variables，请在 Cloudflare Dashboard 或 Wrangler secrets 中设置
